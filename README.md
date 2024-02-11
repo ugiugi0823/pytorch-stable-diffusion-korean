@@ -14,6 +14,7 @@
 
 ### 텍스트 프롬프트 간 보간
 ![P1](./sd/data/P1.gif)
+![P1](./sd/data/panda2plance.gif)
 
 
 ### 수백 단계를 사용하여 훨씬 더 세밀한 보간
