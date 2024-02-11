@@ -25,6 +25,7 @@
 <p align="center">
   <img src="./sd/src/P3.jpg" alt="P3">
 </p>
+
 ### 네 가지 프롬프트 사이를 보간 (w / o noise)
 <p align="center">
   <img src="./sd/src/P4.jpg" alt="P4">
