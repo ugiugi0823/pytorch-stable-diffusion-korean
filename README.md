@@ -4,14 +4,11 @@
 
 
 
-<a href="https://colab.research.google.com/drive/여러분의노트북ID">
+<a href="https://colab.research.google.com/drive/1Li66ZpHs_XLDQw9lcYD7WNmqpvRFqfon">
     <img src="https://colab.research.google.com/img/colab_favicon.ico" width="30" height="30" alt="Open In Colab"/>
 </a>
 
-[![Open In Colab](https://colab.research.google.com/img/colab_favicon.ico)](https://colab.research.google.com/drive/여러분의노트북ID)
 
-
-![Colab](https://colab.research.google.com/img/colab_favicon.ico)]([https://colab.research.google.com/drive/여러분의노트북ID](https://colab.research.google.com/drive/1Li66ZpHs_XLDQw9lcYD7WNmqpvRFqfon))
 
 
 
