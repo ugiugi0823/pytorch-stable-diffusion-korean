@@ -1,5 +1,6 @@
 # pytorch-stable-diffusion-korean
-PyTorch implementation of Stable Diffusion from scratch
+![image](https://github.com/ugiugi0823/pytorch-stable-diffusion-korean/assets/106899647/9c2a95e2-6bbe-4001-bd67-1f997d5d8d15)
+
 
 
 ![P1](./sd/data/P1.gif)
