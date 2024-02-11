@@ -1,8 +1,6 @@
 # pytorch-stable-diffusion-korean
 
-<p align="center">
-  <img src="https://github.com/ugiugi0823/pytorch-stable-diffusion-korean/assets/106899647/9c2a95e2-6bbe-4001-bd67-1f997d5d8d15" alt="image">
-</p>
+<p align="center"><img src="https://github.com/ugiugi0823/pytorch-stable-diffusion-korean/assets/106899647/9c2a95e2-6bbe-4001-bd67-1f997d5d8d15" alt="image"></p>
 
 
 
