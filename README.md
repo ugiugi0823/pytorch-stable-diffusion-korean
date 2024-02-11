@@ -7,17 +7,16 @@
 
 
 
-<p align="center">
-  <img src="./sd/src/P1.gif" alt="P1">
-</p>
+
 
 
 
 ## Stable Diffusion을 통한 잠재공간 산책
 
 ### 텍스트 프롬프트 간 보간
-![P1](./sd/src/P1.gif)
-![P1](./sd/src/panda2plance.gif)
+<p align="center">
+  <img src="./sd/src/P1.gif" alt="P1">
+</p>
 
 
 ### 수백 단계를 사용하여 훨씬 더 세밀한 보간
