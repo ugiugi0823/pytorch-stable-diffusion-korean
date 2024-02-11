@@ -61,4 +61,5 @@ Special thanks to the following repositories:
 1. https://github.com/divamgupta/stable-diffusion-tensorflow
 1. https://github.com/kjsman/stable-diffusion-pytorch
 1. https://github.com/huggingface/diffusers/
+2. https://keras.io/examples/generative/random_walks_with_stable_diffusion/
 
