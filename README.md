@@ -13,8 +13,8 @@
 ## Stable Diffusion을 통한 잠재공간 산책
 
 ### 텍스트 프롬프트 간 보간
-![P1](./sd/data/P1.gif)
-![P1](./sd/data/panda2plance.gif)
+![P1](./sd/src/P1.gif)
+![P1](./sd/src/panda2plance.gif)
 
 
 ### 수백 단계를 사용하여 훨씬 더 세밀한 보간
