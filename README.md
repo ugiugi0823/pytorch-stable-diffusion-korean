@@ -1,4 +1,4 @@
-# pytorch-stable-diffusion-korean
+# Stable Diffusion을 통한 잠재공간 산책
 
 <p align="center"><img src="https://github.com/ugiugi0823/pytorch-stable-diffusion-korean/assets/106899647/d10881c1-391e-4599-b2b5-b40b570e75e6" alt="image"></p>
 
@@ -10,8 +10,6 @@
 
 
 
-
-## Stable Diffusion을 통한 잠재공간 산책
 
 ### 텍스트 프롬프트 간 보간
 <p align="center">
