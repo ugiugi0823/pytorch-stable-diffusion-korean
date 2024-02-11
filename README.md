@@ -1,6 +1,6 @@
 # pytorch-stable-diffusion-korean
 
-<p align="center"><img src="[heobeukelleo_Data_Manifold_Walkthrough_forest_fa6f503c-423b-4d02-bb8d-56a7c04daa8f](https://github.com/ugiugi0823/pytorch-stable-diffusion-korean/assets/106899647/937c23d9-37b5-4146-9773-7148d67a9835)
+<p align="center"><img src="![data_manifold](https://github.com/ugiugi0823/pytorch-stable-diffusion-korean/assets/106899647/d10881c1-391e-4599-b2b5-b40b570e75e6)
 " alt="image"></p>
 
 
