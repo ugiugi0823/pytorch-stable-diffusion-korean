@@ -7,7 +7,7 @@
 
 
 
-[![Open In Colab](https://colab.research.google.com/img/colab_favicon.ico)]([https://colab.research.google.com/drive/여러분의노트북ID](https://colab.research.google.com/drive/1Li66ZpHs_XLDQw9lcYD7WNmqpvRFqfon))
+[![Colab](https://colab.research.google.com/img/colab_favicon.ico)]([https://colab.research.google.com/drive/여러분의노트북ID](https://colab.research.google.com/drive/1Li66ZpHs_XLDQw9lcYD7WNmqpvRFqfon))
 
 
 
