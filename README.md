@@ -24,16 +24,19 @@
 <p align="center">
   <img src="./sd/src/P2_resized.gif" alt="P1">
 </p>
+
 ---
 ### 네 가지 프롬프트 사이를 보간 (w / noise)
 <p align="center">
   <img src="./sd/src/P3.jpg" alt="P3">
 </p>
+
 ---
 ### 네 가지 프롬프트 사이를 보간 (w / o noise)
 <p align="center">
   <img src="./sd/src/P4.jpg" alt="P4">
 </p>
+
 ---
 ### Step_size걷기의 크기를 늘리거나 줄이도록 조정하여 직접 시도
 <p align="center">
