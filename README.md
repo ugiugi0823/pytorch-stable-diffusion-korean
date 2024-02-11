@@ -4,6 +4,9 @@
 
 
 
+<a href="https://colab.research.google.com/drive/여러분의노트북ID">
+    <img src="https://colab.research.google.com/img/colab_favicon.ico" width="30" height="30" alt="Open In Colab"/>
+</a>
 
 [![Open In Colab](https://colab.research.google.com/img/colab_favicon.ico)](https://colab.research.google.com/drive/여러분의노트북ID)
 
