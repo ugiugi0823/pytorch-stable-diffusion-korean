@@ -21,6 +21,9 @@
 
 
 ### 수백 단계를 사용하여 훨씬 더 세밀한 보간
+<p align="center">
+  <img src="./sd/src/P2_resized.gif" alt="P1">
+</p>
 
 ### 네 가지 프롬프트 사이를 보간 (w / noise)
 <p align="center">
@@ -33,10 +36,15 @@
 </p>
 
 ### Step_size걷기의 크기를 늘리거나 줄이도록 조정하여 직접 시도
+<p align="center">
+  <img src="./sd/src/P5_resized.gif" alt="P1">
+
 
 
 
 ###  단일 프롬프트에 대한 확산 노이즈 공간을 통한 원형 이동(Cos, Sin)
+<p align="center">
+  <img src="./sd/src/P6_resized.gif" alt="P1">
 
 
 
