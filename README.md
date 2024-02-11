@@ -5,7 +5,7 @@
 
 
 ⭐️거두 절미하고, 해보세요!⭐️
-<a href="https://colab.research.google.com/drive/1Li66ZpHs_XLDQw9lcYD7WNmqpvRFqfon">
+ ---> <a href="https://colab.research.google.com/drive/1Li66ZpHs_XLDQw9lcYD7WNmqpvRFqfon">
     <img src="https://colab.research.google.com/img/colab_favicon.ico" width="30" height="30" alt="Open In Colab"/>
 </a>
 
