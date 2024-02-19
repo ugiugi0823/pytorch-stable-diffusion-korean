@@ -56,6 +56,7 @@ uncond_prompt = "worst quality"
 <p align="center">
   <img src="./sd/src/P4.jpg" alt="P4">
 </p>
+
 ```
 prompt_1 = "A watercolor painting of a Golden Retriever at the beach"
 prompt_2 = "A still life DSLR photo of a bowl of fruit"
@@ -87,6 +88,7 @@ delta = torch.ones_like(encoding) * step_size
 
 ```
 prompt_6 = "An oil paintings of cows in a field next to a windmill in Holland"
+uncond_prompt = "worst quality"
 ```
 
 
