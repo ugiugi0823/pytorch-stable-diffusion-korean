@@ -19,11 +19,22 @@
   <img src="./sd/src/P1.gif" alt="P1">
 </p>
 
+```
+prompt_1 = "A watercolor painting of a Golden Retriever at the beach"
+prompt_2 = "A still life DSLR photo of a bowl of fruit"
+uncond_prompt = "worst quality"
+```
 ---
 ### 수백 단계를 사용하여 훨씬 더 세밀한 보간
 <p align="center">
   <img src="./sd/src/P2_resized.gif" alt="P1">
 </p>
+
+```
+prompt_1 = "A watercolor painting of a Golden Retriever at the beach"
+prompt_2 = "A still life DSLR photo of a bowl of fruit"
+uncond_prompt = "worst quality"
+```
 
 ---
 ### 네 가지 프롬프트 사이를 보간 (w / noise)
@@ -31,25 +42,52 @@
   <img src="./sd/src/P3.jpg" alt="P3">
 </p>
 
+```
+prompt_1 = "A watercolor painting of a Golden Retriever at the beach"
+prompt_2 = "A still life DSLR photo of a bowl of fruit"
+prompt_3 = "The eiffel tower in the style of starry night"
+prompt_4 = "An architectural sketch of a skyscraper"
+uncond_prompt = "worst quality"
+```
+
+
 ---
 ### 네 가지 프롬프트 사이를 보간 (w / o noise)
 <p align="center">
   <img src="./sd/src/P4.jpg" alt="P4">
 </p>
-
+```
+prompt_1 = "A watercolor painting of a Golden Retriever at the beach"
+prompt_2 = "A still life DSLR photo of a bowl of fruit"
+prompt_3 = "The eiffel tower in the style of starry night"
+prompt_4 = "An architectural sketch of a skyscraper"
+uncond_prompt = "worst quality"
+```
 ---
 ### Step_size걷기의 크기를 늘리거나 줄이도록 조정하여 직접 시도
 <p align="center">
   <img src="./sd/src/P5_resized.gif" alt="P1">
 
+```
+walk_steps = 150
+step_size = 0.005
+prompt_5 = "The Eiffel Tower in the style of starry night"
+uncond_prompt = "worst quality"
 
+cond_context_5 = prepare_tokens(prompt_5,models, tokenizer, DEVICE)
+uncond_context = prepare_tokens(uncond_prompt,models, tokenizer, DEVICE)
+encoding = cond_context_5
+delta = torch.ones_like(encoding) * step_size
+```
 
 ---
 ###  단일 프롬프트에 대한 확산 노이즈 공간을 통한 원형 이동(Cos, Sin)
 <p align="center">
   <img src="./sd/src/P6_resized.gif" alt="P1">
 
-
+```
+prompt_6 = "An oil paintings of cows in a field next to a windmill in Holland"
+```
 
 
 
